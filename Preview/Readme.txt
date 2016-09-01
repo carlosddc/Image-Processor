@@ -1,1 +1,1 @@
-This images gives a program's preview
+These images gives a program's preview
